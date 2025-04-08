@@ -1,44 +1,28 @@
-# Temporizador Pomodoro con Sugerencias de Actividades
+# 🍅 Pomodoro Timer
 
-Este proyecto es un **Temporizador Pomodoro** con un toque de **IA** simple, que sugiere actividades para hacer durante las pausas. Está hecho con **HTML**, **CSS** y **JavaScript**.
+Un temporizador Pomodoro simple y elegante que te ayuda a mejorar tu productividad gestionando tu tiempo de trabajo y descanso.
 
-## Estructura del Proyecto
+## 🚀 Características
 
-El proyecto está compuesto por tres archivos principales:
-- `index.html`: La estructura HTML de la página.
-- `styles.css`: Los estilos CSS que dan formato a la página.
-- `script.js`: La lógica JavaScript que controla el temporizador y las sugerencias de actividades.
+- ⏱️ Temporizador de 25 minutos para sesiones de trabajo.
+- ☕ 5 minutos de descanso corto.
+- 🛌 15 minutos de descanso largo cada 4 sesiones.
+- 🔔 Notificaciones sonoras al finalizar los periodos.
+- 🌙 Modo oscuro.
+- 🎯 Interfaz limpia e intuitiva.
 
-## Descripción del Código
+## 🛠️ Tecnologías utilizadas
 
-### 1. **index.html**
+- HTML5 / CSS3 / JavaScript
+- [Opcional] Framework frontend (React, Vue, etc.)
+- [Opcional] LocalStorage para guardar el progreso
+- [Opcional] Docker para contenerizar la app
 
-Este archivo contiene la estructura básica de la página, incluyendo el temporizador y los botones de control.
+## 📦 Instalación
 
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8"> <!-- Define la codificación de caracteres en UTF-8 -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Asegura que el diseño sea responsivo -->
-    <title>Temporizador Pomodoro</title> <!-- Título de la página -->
-    <link rel="stylesheet" href="styles.css"> <!-- Enlaza el archivo CSS para los estilos -->
-</head>
-<body>
-    <div class="container"> <!-- Contenedor principal para el contenido -->
-        <h1>Temporizador Pomodoro</h1> <!-- Título principal -->
-        <p id="timer">25:00</p> <!-- Elemento donde se mostrará el temporizador -->
-        <div class="controls"> <!-- Contenedor de los botones -->
-            <button onclick="startTimer()">Iniciar</button> <!-- Botón para iniciar el temporizador -->
-            <button onclick="pauseTimer()">Pausar</button> <!-- Botón para pausar el temporizador -->
-            <button onclick="resetTimer()">Reiniciar</button> <!-- Botón para reiniciar el temporizador -->
-        </div>
-        <div id="activity-suggestion" style="display:none;"> <!-- Contenedor oculto para mostrar la sugerencia de actividad -->
-            <h2>Actividad recomendada:</h2>
-            <p id="suggested-activity"></p> <!-- Elemento donde se mostrará la actividad recomendada -->
-        </div>
-    </div>
+### Clonación del repositorio
 
-    <script src="script.js"></script> <!-- Enlaza el archivo JavaScript que contiene la lógica -->
-</body>
-</html>
+```bash
+git clone https://github.com/tuusuario/pomodoro-timer.git
+cd pomodoro-timer
+
