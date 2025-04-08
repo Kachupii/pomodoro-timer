@@ -1,6 +1,14 @@
 # 🍅 Pomodoro Timer
 
-Un temporizador Pomodoro simple y elegante que te ayuda a mejorar tu productividad gestionando tu tiempo de trabajo y descanso.
+
+![The_Pomodoro_timer_in_Vivaldi_browser-980x551](https://github.com/user-attachments/assets/517fc052-0082-4f47-a4b7-abbeb6850299)
+
+
+
+
+
+
+
 
 ## 🚀 Características
 
