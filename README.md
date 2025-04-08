@@ -14,15 +14,12 @@ Un temporizador Pomodoro simple y elegante que te ayuda a mejorar tu productivid
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5 / CSS3 / JavaScript
-- [Opcional] Framework frontend (React, Vue, etc.)
-- [Opcional] LocalStorage para guardar el progreso
-- [Opcional] Docker para contenerizar la app
-
+- 
 ## 📦 Instalación
 
 ### Clonación del repositorio
 
 ```bash
-git clone https://github.com/tuusuario/pomodoro-timer.git
+git clone https://github.com/Kachupii/pomodoro-timer.git
 cd pomodoro-timer
 
