@@ -3,11 +3,7 @@
 
 ![The_Pomodoro_timer_in_Vivaldi_browser-980x551](https://github.com/user-attachments/assets/517fc052-0082-4f47-a4b7-abbeb6850299)
 
-
-
-
-
-
+![HTML 5](https://img.shields.io/badge/HTML-5-%23f6f5f4?style=flat&labelColor=%233584e4&logo=HTML5)  ![JAVASCRIPT 2021](https://img.shields.io/badge/JAVASCRIPT-2021-%23ffffff?style=flat&labelColor=%235e5c64&logo=javascript)  ![CSS 3](https://img.shields.io/badge/CSS-3-%233584e4?style=flat&labelColor=%239a9996&logo=CSS)
 
 
 ## 🚀 Características
@@ -22,9 +18,7 @@
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5 / CSS3 / JavaScript
-- 
-## 📦 Instalación
-
+  
 ### Clonación del repositorio
 
 ```bash
